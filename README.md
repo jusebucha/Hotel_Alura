@@ -33,10 +33,10 @@
 ## Registro Huespedes:
 ![image](https://user-images.githubusercontent.com/113076640/235794772-1c64ade3-d6da-4c32-a101-968946a4cd76.png)
 <br>
-## Sistema de Busqueda por huesped:
+## Sistema de Busqueda por reserva:
 ![image](https://user-images.githubusercontent.com/113076640/235794819-67e09393-e857-42ad-874b-df6a4afe24db.png)
 <br>
-## Sistema de Busqueda por reserva:
+## Sistema de Busqueda por huesped:
 ![image](https://user-images.githubusercontent.com/113076640/235794847-eed97095-bfd2-4ae4-9f52-72de7aa4027a.png)
 <br>
 ## Sistema de Busqueda por huesped usando filtro:
