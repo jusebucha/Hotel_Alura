@@ -18,24 +18,24 @@
 - Biblioteca C3PO para crear Pool de conexiones
  </br>
 
-##Menu Principal:
+## Menu Principal:
 ![image](https://user-images.githubusercontent.com/113076640/235794466-d1c54c57-feac-4fdd-9af6-049d9014dd19.png)
-
-##Login o Inicio de Sesión:
+<br>
+## Login o Inicio de Sesión:
 ![image](https://user-images.githubusercontent.com/113076640/235794565-1e561a35-f186-4172-aa2c-feb10621657c.png)
-
-##Menú Usuarios:
+<br>
+## Menú Usuarios:
 ![image](https://user-images.githubusercontent.com/113076640/235794593-7e036674-2d16-43d8-b925-53dc900b09cd.png)
-
-##Realizar una Reserva:
+<br>
+## Realizar una Reserva:
 ![image](https://user-images.githubusercontent.com/113076640/235794670-98a87b0a-a622-434b-82b0-a6a8c55881d4.png)
-
-##Registro Huespedes:
+<br>
+## Registro Huespedes:
 ![image](https://user-images.githubusercontent.com/113076640/235794772-1c64ade3-d6da-4c32-a101-968946a4cd76.png)
-
-##Sistema de Busqueda por huesped:
+<br>
+## Sistema de Busqueda por huesped:
 ![image](https://user-images.githubusercontent.com/113076640/235794792-dbbae725-d0ee-4671-a418-869e9130c7dc.png)
-
+<br>
 ##Sistema de Busqueda por reserva:
 ![image](https://user-images.githubusercontent.com/113076640/235794819-67e09393-e857-42ad-874b-df6a4afe24db.png)
 ![image](https://user-images.githubusercontent.com/113076640/235794847-eed97095-bfd2-4ae4-9f52-72de7aa4027a.png)
